@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hey!, I am <a href="/">Sazeduzzaman</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hey!, I am <a href="/">Sazeduzzaman</a> <img height="80px" width="80px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### 📬 Find me at
@@ -15,16 +15,37 @@ JavaScript & React.js to design the user interface 💻 and deploy it effectivel
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I’m currently learning Redux
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+Occupation and Skills:
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - Frontend Developer, Web Developer, Mern Stack Developer
-- 📝 I write technical blogs and articles
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about React JS, Javascript, MongoDB, Bootstrap
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1td1OFDqJd7pR-QnArsy9qQuBEDf4JAtt/view?usp=share_link)
-- 🎉 Fun-Fact: I ❤️ Gamming and Traveling and watch a lot Sci-Fi Movies🎬
+I specialize in:
+Frontend Development
+Web Development
+MERN Stack Development
+Content Creation:
+
+📝 I actively contribute to the tech community by writing:
+Technical blogs
+Articles
+DevOps Interest:
+
+🤔 Currently seeking assistance or guidance in the field of:
+DevOps
+Skills Showcase:
+
+💬 Ask me about my expertise in:
+React JS
+Javascript
+MongoDB
+Bootstrap
+Resume Availability:
+
+📙 My resume is available for review.
+Personal Interests:
+
+🎉 Fun-Fact: I ❤️
+Gaming 🎮
+Traveling ✈️
+Watching a lot of Sci-Fi Movies 🎬
 
   
 ### 🖥️ My DevSetup
@@ -65,5 +86,8 @@ language badges:
 ![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Tailwind](https://img.shields.io/badge/Tailwind-181717?style=flat-square&logo=tailwind)
+![JQuery](https://img.shields.io/badge/Jquery-181717?style=flat-square&logo=jquery)
+![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react)
 
 
