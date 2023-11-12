@@ -63,11 +63,27 @@ Watching a lot of Sci-Fi Movies 🎬
 
 
 ### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Sazeduzzaman&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<img width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazeduzzaman&theme=dracula" alt="Defcon27's Github Stats" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sazeduzzzaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sazeduzzzaman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazeduzzzaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sazeduzzzaman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sazeduzzzaman&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sazeduzzzaman&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [View Portfolio](https://szamansaju-98e92.web.app/)
 
 
